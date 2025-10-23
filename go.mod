@@ -1,3 +1,3 @@
-module github.com/Crosse/sshsrv
+module github.com/loecom/sshsrv
 
-require github.com/Crosse/gosimplelogger v0.2.0
+require github.com/loecom/gosimplelogger v0.2.0
